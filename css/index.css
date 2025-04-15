@@ -43,8 +43,7 @@ footer img {
   footer {
   display: flex;
   justify-content: center;
-  
-  
+  padding: 5px;
 }
    footer a {
     margin: 7px;
